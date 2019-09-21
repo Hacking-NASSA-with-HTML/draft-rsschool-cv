@@ -1,4 +1,1 @@
-# draft-rsschool-cv
-# There is cool heading
-## This can see on GH-PAGES branch only
-
+[https://vyacheslavv44.github.io/draft-rsschool-cv/](https://vyacheslavv44.github.io/draft-rsschool-cv/)
