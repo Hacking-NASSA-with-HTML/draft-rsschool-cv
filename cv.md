@@ -17,10 +17,11 @@ Any field of development is interesting for me.
 <br>
 
 ###### Skills:
-    - `HTML`
-    - `CSS`
-    - `JQuery`
-    - `GIT`
+  - `HTML`
+  - `CSS`
+  - `JQuery`
+  - `GIT`
+
 <br>
 <br>
 
