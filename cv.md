@@ -15,11 +15,13 @@ Any field of development is interesting for me.
 <br>
 <br>
 Skills:
-  - `var example = true`
-  - `var example = true`
-  - `var example = true`
-  - `var example = true`
-  - `var example = true`
+  - `HTML`
+  - `CSS`
+  - `JQuery`
+  - `GIT`
+<br>
+<br>
+
 
 Sparkle emoji looks like this :sparkles:
 
