@@ -4,6 +4,12 @@ Contact Info:
 * follow.trend7777@gmail.com
 * +7-902-185-78-34
 <br>
+Summary:
+I really want to become a REAL web developer. At my 39 years old, I found an activity that at first was like a pleasant hobby.
+I studied the basics in the online school "Sololern", received electronic certificates of completion.
+Recently completed the freeCodeCamp course - Adaptive Development.
+Any field of development is interesting for me.
+<br>
 
 Sparkle emoji looks like this :sparkles:
 
