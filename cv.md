@@ -44,7 +44,7 @@ Any field of development is interesting for me.
 <br>
 
 ###### English:
-A2+2
+A2+
 <br>
 <br>
 <br>
