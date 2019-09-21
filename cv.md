@@ -17,10 +17,10 @@ Any field of development is interesting for me.
 <br>
 
 ###### Skills:
-  - `HTML`
-  - `CSS`
-  - `JQuery`
-  - `GIT`
+    - `HTML`
+    - `CSS`
+    - `JQuery`
+    - `GIT`
 <br>
 <br>
 
@@ -30,11 +30,15 @@ Any field of development is interesting for me.
 <br>
 
 ###### Experience:
-[https://github.com/vyacheslavv44/Random-quote-machine](https://github.com/vyacheslavv44/Random-quote-machine)
-[https://github.com/vyacheslavv44/Responsive-weather-app-for-FreeCodeCamp](https://github.com/vyacheslavv44/Responsive-weather-app-for-FreeCodeCamp)
+[https://github.com/vyacheslavv44/Random-quote-machine](https://github.com/vyacheslavv44/Random-quote-machine)<br>
+
+[https://github.com/vyacheslavv44/Responsive-weather-app-for-FreeCodeCamp](https://github.com/vyacheslavv44/Responsive-weather-app-for-FreeCodeCamp)<br>
+
 [https://github.com/vyacheslavv44/App-to-test-dead-pixels-of-your-monitor](https://github.com/vyacheslavv44/App-to-test-dead-pixels-of-your-monitor)
 <br>
 <br>
+
+###### Education:
 
 
 
