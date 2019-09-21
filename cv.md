@@ -13,6 +13,13 @@ I studied the basics in the online school "Solo learn", received electronic cert
 Recently completed the "freeCodeCamp" course - Responsive Web Design.
 Any field of development is interesting for me.
 <br>
+<br>
+Skills:
+  - `var example = true`
+  - `var example = true`
+  - `var example = true`
+  - `var example = true`
+  - `var example = true`
 
 Sparkle emoji looks like this :sparkles:
 
